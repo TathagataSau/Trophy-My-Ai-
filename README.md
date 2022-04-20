@@ -1,4 +1,4 @@
-# Trophy-My-Ai-
+# Trophy-My-Ai
 made a simple Ai assistant That can handle simple things with python(spyder)
 (run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech: pip install speechRecognition
 
