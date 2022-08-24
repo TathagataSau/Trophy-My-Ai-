@@ -10,4 +10,8 @@ To get wikipedia data: pip install wikipedia
 
 To get funny jokes: pip install pyjokes
 
-for talk back : pip install pyaudio
+for talk back : pip install pyaudi
+
+###### Help from the website : https://realpython.com/python-speech-recognition/#how-speech-recognition-works-an-overview
+
+
